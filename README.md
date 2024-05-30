@@ -26,7 +26,7 @@ lmstudio
 PyPDF2
 openai
 
-##Setup
+## Setup
 
 Create Vector Database
 Place the PDF file Gale Encyclopedia of Medicine Vol. 4 (N-S).pdf in the data/ directory.
@@ -40,7 +40,7 @@ Ensure LM Studio is running and the Llama model is loaded and available at http:
 Run the model_final.py script to start the QA bot: 
 chainlit model_final.py
 
-##Usage
+## Usage
 Once the server is running, you can interact with the Medical QA Bot by asking medical-related questions. The bot will retrieve relevant information from the Gale Encyclopedia of Medicine Vol. 4 (N-S).pdf document and respond with the best possible answer.
 
 License
